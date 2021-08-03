@@ -1,4 +1,4 @@
-# `All-about-React`
+# `React revision guide`
 This is my react guide.
 note: this is only for revision purpose only.
 
